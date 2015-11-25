@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/painkiller/issues"
   },
-  "homepage": "https://github.com/AgtLucas/painkiller#readme"
+  "homepage": "https://github.com/AgtLucas/painkiller#readme",
+  "dependencies": {
+    "expect": "^1.13.0",
+    "redux": "^3.0.4"
+  }
 }
