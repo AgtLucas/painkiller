@@ -50,6 +50,10 @@
         {
           "href": "https://npmjs.com/package/painkiller",
           "text": "npm"
+        },
+        {
+          "href": "/about",
+          "text": "About"
         }
       ]
     },
@@ -69,7 +73,7 @@
           "repo": "painkiller"
         }
       ],
-      "text": "v1.0.0"
+      "text": ""
     },
     {
       "component": "article",
